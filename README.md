@@ -1,6 +1,6 @@
-# Star_City / 20/11/2018
+# Star City
 
-Procedural map Generation of a city.
+Procedural map Generation of a city (11/2018).
 
 ## Technologies used:
 * C++
